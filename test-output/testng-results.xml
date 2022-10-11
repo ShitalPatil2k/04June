@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-09T10:12:01 IST" name="Suite" finished-at="2022-10-09T10:12:10 IST" duration-ms="9244">
+    <groups>
+    </groups>
+    <test started-at="2022-10-09T10:12:01 IST" name="ChromeTest" finished-at="2022-10-09T10:12:10 IST" duration-ms="9244">
+      <class name="com.sauceDemo.TestClasses.TC01_VerifyLoginFuctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.sauceDemo.TestClasses.TC01_VerifyLoginFuctionality@77847718]" started-at="2022-10-09T10:12:01 IST" name="setUp" finished-at="2022-10-09T10:12:05 IST" duration-ms="4342" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyLoginFunctinality()[pri:0, instance:com.sauceDemo.TestClasses.TC01_VerifyLoginFuctionality@77847718]" started-at="2022-10-09T10:12:05 IST" name="VerifyLoginFunctinality" finished-at="2022-10-09T10:12:06 IST" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginFunctinality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauceDemo.TestClasses.TC01_VerifyLoginFuctionality@77847718]" started-at="2022-10-09T10:12:06 IST" name="tearDown" finished-at="2022-10-09T10:12:06 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauceDemo.TestClasses.TC01_VerifyLoginFuctionality -->
+      <class name="com.sauceDemo.TestClasses.TC03_VerifyAddToCartFuctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.sauceDemo.TestClasses.TC03_VerifyAddToCartFuctionality@79924b]" started-at="2022-10-09T10:12:01 IST" name="setUp" finished-at="2022-10-09T10:12:05 IST" duration-ms="4408" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddToCart()[pri:0, instance:com.sauceDemo.TestClasses.TC03_VerifyAddToCartFuctionality@79924b]" started-at="2022-10-09T10:12:05 IST" name="verifyAddToCart" finished-at="2022-10-09T10:12:05 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauceDemo.TestClasses.TC03_VerifyAddToCartFuctionality@79924b]" started-at="2022-10-09T10:12:05 IST" name="tearDown" finished-at="2022-10-09T10:12:05 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauceDemo.TestClasses.TC03_VerifyAddToCartFuctionality -->
+      <class name="com.sauceDemo.TestClasses.TC05_VerifyFilterFunctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.sauceDemo.TestClasses.TC05_VerifyFilterFunctionality@7f3b84b8]" started-at="2022-10-09T10:12:05 IST" name="setUp" finished-at="2022-10-09T10:12:08 IST" duration-ms="2983" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyFilterDropDown()[pri:0, instance:com.sauceDemo.TestClasses.TC05_VerifyFilterFunctionality@7f3b84b8]" started-at="2022-10-09T10:12:08 IST" name="verifyFilterDropDown" finished-at="2022-10-09T10:12:09 IST" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFilterDropDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauceDemo.TestClasses.TC05_VerifyFilterFunctionality@7f3b84b8]" started-at="2022-10-09T10:12:09 IST" name="tearDown" finished-at="2022-10-09T10:12:09 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauceDemo.TestClasses.TC05_VerifyFilterFunctionality -->
+      <class name="com.sauceDemo.TestClasses.TC04_VerifyAllProductsFuctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.sauceDemo.TestClasses.TC04_VerifyAllProductsFuctionality@158d2680]" started-at="2022-10-09T10:12:01 IST" name="setUp" finished-at="2022-10-09T10:12:05 IST" duration-ms="4354" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAllProducts()[pri:0, instance:com.sauceDemo.TestClasses.TC04_VerifyAllProductsFuctionality@158d2680]" started-at="2022-10-09T10:12:05 IST" name="verifyAllProducts" finished-at="2022-10-09T10:12:06 IST" duration-ms="628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllProducts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauceDemo.TestClasses.TC04_VerifyAllProductsFuctionality@158d2680]" started-at="2022-10-09T10:12:06 IST" name="tearDown" finished-at="2022-10-09T10:12:06 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauceDemo.TestClasses.TC04_VerifyAllProductsFuctionality -->
+      <class name="com.sauceDemo.TestClasses.TC02_VerifyLogoutFuctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.sauceDemo.TestClasses.TC02_VerifyLogoutFuctionality@57a3af25]" started-at="2022-10-09T10:12:06 IST" name="setUp" finished-at="2022-10-09T10:12:09 IST" duration-ms="3584" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogoutFunctionality()[pri:0, instance:com.sauceDemo.TestClasses.TC02_VerifyLogoutFuctionality@57a3af25]" started-at="2022-10-09T10:12:09 IST" name="verifyLogoutFunctionality" finished-at="2022-10-09T10:12:10 IST" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoutFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauceDemo.TestClasses.TC02_VerifyLogoutFuctionality@57a3af25]" started-at="2022-10-09T10:12:10 IST" name="tearDown" finished-at="2022-10-09T10:12:10 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauceDemo.TestClasses.TC02_VerifyLogoutFuctionality -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
